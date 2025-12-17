@@ -3,7 +3,7 @@
 This is the 2025 Fall EAI Homework
 
 ## 作業列表
-* **Lab 1:** [Handcrafted ResNet-18 with Framework Compatible Training on CIFAR-10作業]
+* **Lab 1:** [Handcrafted ResNet-18 with Framework Compatible Training on CIFAR-10]
 * **Lab 2:** [Model Pruning]
 * **Lab 3:** [Model Quantization]
 * **Lab 4:** [Knowledge Distillation]
